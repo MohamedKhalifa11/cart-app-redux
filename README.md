@@ -8,6 +8,8 @@ Welcome to the Cart App! This is a simple web app built with React that helps yo
 2. Install what you need: `npm install`
 3. Start the app: `npm start`
 
+And you can also interact with the cart app online from [here](https://cart-app-redux-mohamed-khalifas-projects.vercel.app/).
+
 ## Technologies Used
 
 - React
